@@ -1,2 +1,23 @@
-# kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends
+# Kickstarting with Excel
+
+## Overview of Project
+Louise is fundraising for her play Fever on the fundraising platform Kickstarter. She is interested in understanding available Kickstarter data so that she may launch a successful fundraising campaign. Louise has requested an analysis of successful, failed, and cancelled theater fundraising campaign by month the campaign was launched and the percentage of successful, failed, and canceled campaigns by fundraising goal. 
+### Purpose
+The purpose of this analysis is to help Louise understand historical Kickstarter data so that she may develop a strategy to successfully fund her play Fever.
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?

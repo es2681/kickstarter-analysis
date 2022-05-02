@@ -3,7 +3,7 @@
 ## Overview of Project
 Louise is an up-and-coming playwright looking to crowdfund her new play *Fever* using the crowdsourcing platform Kickstarter. She anticipates the play will require a production budget of over $10,000. Louise asked for help to determine whether there are specific factors which allowed similar project campaigns to meet their fundraising goals so that she may utilize the same techniques for *Fever*.
 
-I analyzed Kickstarter campaigns data for theater productions and plays launched between 2010 and 2017. Data for successful, failed, and cancelled theater fundraising campaigns was reviewed by campaign launch month. Additionally, the percentage of successful, failed, and canceled campaigns was analyzed in accordance with the campaign fundraising goals. 
+Kickstarter campaigns data for theater productions and plays launched between 2010 and 2017 was analyzed using Microsoft Excel. Data for successful, failed, and cancelled theater fundraising campaigns was reviewed by campaign launch month. Additionally, the percentage of successful, failed, and canceled campaigns was analyzed in accordance with the campaign fundraising goals. 
 
 ### Purpose
 The purpose of this analysis is to help Louise understand historical Kickstarter data to develop a strategy to increase her chances of launching a successful fundraising campaign for *Fever*. 

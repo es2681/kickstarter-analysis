@@ -9,7 +9,7 @@ I analyzed Kickstarter campaigns data for theater productions and plays launched
 The purpose of this analysis is to help Louise understand historical Kickstarter data to develop a strategy to increase her chances of launching a successful fundraising campaign for *Fever*. 
 
 ## Analysis and Challenges
-We obtained theater fundraising data from 19 countries available between 2010 to 2017 (1,393 records). Of the theater records, we further drilled down to Kickstart campaigns specific to plays (1,066 records). Theater records were analyzed based on the month in which their crowdfunding campaigns were launched. Play records were analyzed based on the amount of their fundraising goals. 
+We obtained theater fundraising data from 19 countries available between 2010 to 2017 (1,393 records). Of the theater records, we further drilled down to Kickstarter campaigns specific to plays (1,066 records). Theater records were analyzed based on the month in which their crowdfunding campaigns were launched. Play records were analyzed based on the amount of their fundraising goals. 
 
 ### Analysis of Outcomes Based on Launch Date
 Of the 1,369 crowdsourcing theater campaigns launched on Kickstarter between 2010 and 2017, 839 successfully met their fundraising goals, 493 failed, and 37 campaigns were cancelled. In general, there were more successful campaigns every month than there failed campaigns during this timeframe. Relatively few campaigns were canceled during any month. The relative number of successful and failed theater crowdsourcing campaigns appears to mirror one another – generally, the months where there are greater numbers of successful campaigns, there are also greater numbers of failed campaigns. The number of canceled campaigns is low every month. 

@@ -34,18 +34,18 @@ While an analysis of this data has provided some helpful insights, Kickstarterâ€
 -	Lastly, this data was collected prior to the start of the Covid-19 pandemic. At present, many theater productions have been cancelled altogether or are running at limited capacity. Even with the best data-based strategies, it may not be possible to successfully fundraise for any theater production during a global pandemic.  
 
 ## Results
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+#### What are two conclusions you can draw about the Outcomes based on Launch Date?
 My analysis indicated that the greatest number of successful Kickstarter campaigns were launched in May while the least number of successful campaigns were launched in December. Based on this information, I recommend that Louise launch her campaign in May, and I would advise her against launching a campaign in December. 
 
-- What can you conclude about the Outcomes based on Goals?
+#### What can you conclude about the Outcomes based on Goals?
 Louise previously stated that she anticipates needing over $10,000 to producer her play, *Fever*. The data appears to indicate that she will have a 
 
-- What are some limitations of this dataset?
+#### What are some limitations of this dataset?
 As described above, this dataset has several limitations. Of these limitations, below are four notable data gaps in the Kickstarter dataset.
 -	Location data is not adequately refined;
 -	Data is outdated;
 -	Available data is limited and does not include relevant qualitative data; and
 -	Data was collected prior to the Covid-19 pandemic.
 
-- What are some other possible tables and/or graphs that we could create?
+#### What are some other possible tables and/or graphs that we could create?
 An analysis of Kickstarter data through present day would be helpful. 

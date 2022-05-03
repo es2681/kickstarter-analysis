@@ -28,8 +28,8 @@ Please reference the Outcomes Based on Goal graphic for further details.
 ### Challenges and Difficulties Encountered
 While an analysis of this data has provided some helpful insights, Kickstarter’s data also includes significant data gaps. Detailed below are four noteworthy data gaps. 
 
--	Firstly, it is unclear where Louise intends to crowdfund and produce her play. The success of theater and plays Kickstarter campaigns may vary greatly depending on local demographics (i.e., population, income, quantity of cultural institutions, political environment, etc.). 
--	Secondly, this data is outdated. Some of the data is over ten years old. Crowdfunding patterns may have changed in this period of timeframe. 
+-	It is unclear where Louise intends to crowdfund and produce her play. The success of theater and plays Kickstarter campaigns may vary greatly depending on local demographics (i.e., population, income, quantity of cultural institutions, political environment, etc.). 
+-	Second, this data is outdated. Some of the data is over ten years old. Crowdfunding patterns may have changed in this period of timeframe. 
 -	This dataset does not include much information. Qualitative data such as play genre, reception, marketing copy and other techniques used are not included. These and other factors undoubtedly had an impact on the success of a fundraising goals. 
 -	Lastly, this data was collected prior to the start of the Covid-19 pandemic. At present, many theater productions have been cancelled altogether or are running at limited capacity. Even with the best data-based strategies, it may not be possible to successfully fundraise for any theater production during a global pandemic.  
 

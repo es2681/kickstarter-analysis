@@ -14,20 +14,21 @@ We obtained theater fundraising data from 19 countries available between 2010 to
 ### Analysis of Outcomes Based on Launch Date
 Of the 1,369 crowdsourcing theater campaigns launched on Kickstarter between 2010 and 2017, 839 successfully met their fundraising goals, 493 failed, and 37 campaigns were cancelled. In general, there were more successful campaigns every month than there failed campaigns during this timeframe. Relatively few campaigns were canceled during any month. The relative number of successful and failed theater crowdsourcing campaigns appears to mirror one another – generally, the months where there are greater numbers of successful campaigns, there are also greater numbers of failed campaigns. The number of canceled campaigns is low every month. 
 
-The most successful theater campaigns were launched in May. Relatively high numbers of successful campaigns were also launched in February, April, June, July, and August. The month with the least successful campaigns launched is December. 
+The most successful theater campaigns were launched in May. Relatively high numbers of successful campaigns were also launched in February, April, June, July, and August. The month with the least successful campaigns launched is December. Please reference the Theater Outcomes Based on Launch Date graphic below for further details.
 
-Please reference the Theater Outcomes Based on Launch Date graphic for further details.
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/94587007/166506328-9bb43c78-9f51-42a7-b4a1-ed5e115e3232.png)
+
 
 ### Analysis of Outcomes Based on Goals
 Next, the percentage of successful, failed, and cancelled campaigns was based on fundraising goals. Campaigns were analyzed in $5,000 increments beginning with campaign goals <$1,000 and ending with campaign goals exceeding $50,000.  
 
-The percentage of successful campaigns was greater than unsuccessful for play campaigns with goals between >$1,000 and $15,000. There were also more successful campaigns with funding goals between $35,000 and $45,000. Kickstarter campaigns for plays with goals between $20,000 and $35,000 as well as campaigns with goals exceeding $45,000 were more likely to fail their stated goals. 
+The percentage of successful campaigns was greater than unsuccessful for play campaigns with goals between >$1,000 and $15,000. There were also more successful campaigns with funding goals between $35,000 and $45,000. Kickstarter campaigns for plays with goals between $20,000 and $35,000 as well as campaigns with goals exceeding $45,000 were more likely to fail their stated goals. Please reference the Outcomes Based on Goal graphic below for further details. 
 
-Please reference the Outcomes Based on Goal graphic for further details. 
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/94587007/166506252-d13b7521-692f-4930-900e-dd49965f3381.png)
+
 
 ### Challenges and Difficulties Encountered
 While an analysis of this data has provided some helpful insights, Kickstarter’s data also includes significant data gaps. Detailed below are four noteworthy data gaps. 
-
 -	It is unclear where Louise intends to crowdfund and produce her play. The success of theater and plays Kickstarter campaigns may vary greatly depending on local demographics (i.e., population, income, quantity of cultural institutions, political environment, etc.). 
 -	Second, this data is outdated. Some of the data is over ten years old. Crowdfunding patterns may have changed in this period of timeframe. 
 -	This dataset does not include much information. Qualitative data such as play genre, reception, marketing copy and other techniques used are not included. These and other factors undoubtedly had an impact on the success of a fundraising goals. 
